@@ -77,28 +77,24 @@ const siteConfig: SiteConfig = {
       text: "Terms",
       href: "/terms",
     },
-    {
-      text: "Download theme",
-      href: "https://github.com/JustGoodUI/dante-astro-theme",
-    },
   ],
   socialLinks: [
     {
-      text: "Dribbble",
-      href: "https://dribbble.com/",
+      text: "Github",
+      href: "https://github.com/ElDuke717?tab=repositories",
     },
     {
-      text: "Instagram",
-      href: "https://instagram.com/",
+      text: "LinkedIn",
+      href: "https://www.linkedin.com/in/nickjhuemmer/",
     },
     {
-      text: "X/Twitter",
-      href: "https://twitter.com/",
+      text: "Medium",
+      href: "https://medium.com/@njhuemmer",
     },
   ],
   hero: {
     title: "Thanks for stopping by!",
-    text: "Hey there! I'm all about the world of software engineering and full-stack development, with an interest in web and the flow of information. \n\n I enjoy creating immersive, functional, and visually appealing websites and apps that anyone can access easily. I've spent a good chunk of my career getting up close and personal with JavaScript, HTML5, CSS, Node.js, Express.js, and React.   \n\nI'm a big believer in the power of open source and have lent my skills to several projects, including Reactime, which helps keep an eye on React app performance.   When I'm not building or researching something, you can find my thoughts on software engineering and a bunch of other topics over at my blog, nickhuemmer.com. Outside of work, my world revolves around taking long walks, diving into books on philosophy, natural sciences, and tech, scribbling down my thoughts, and hanging out with my family.",
+    text: "I'm Nick, a software engineer based in the United States. I'm passionate about building software that makes a difference. I'm currently working on a few projects and writing about my experiences. If you'd like to get in touch, feel free to reach out.",
     image: {
       src: "/hero.jpeg",
       alt: "A person sitting at a desk in front of a computer",
